@@ -1,0 +1,3 @@
+puerto,baudios,databits,paridad,stopbits,timeout
+COM1,300,8,E,1,2000
+nDispositvo,ID Primaria,ID Secundaria,Notas
